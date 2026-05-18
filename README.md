@@ -1,9 +1,8 @@
 
-# Student Stress Analysis System
+# Human Stress Detection System
 
 ## Project Overview
-This project analyzes student stress levels using lifestyle, academic, social, and image-based factors.
-
+This project is an AI based Human Stress Detection System developed using Python, OpenCV, Machine Learning, and Streamlit. The system analyzes facial expressions and user data to detect stress levels in real time. It helps in identifying stress patterns through image processing and predictive analysis.
 ## Tools Used
 - Python
 - Pandas
@@ -12,6 +11,7 @@ This project analyzes student stress levels using lifestyle, academic, social, a
 - Streamlit
 - Scikit-learn
 - Pillow
+- OpenCV
 
 ## Main Modules
 - Overview
